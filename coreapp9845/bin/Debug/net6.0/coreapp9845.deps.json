@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "coreapp9845/1.0.0": {
+        "runtime": {
+          "coreapp9845.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "coreapp9845/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
